@@ -1,0 +1,21 @@
+# robots.txt pour SysNova
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /private/
+
+# Sitemap
+Sitemap: https://www.sysnova.com/sitemap.xml
+
+# Crawl-delay pour éviter la surcharge
+Crawl-delay: 1
+
+# Googlebot spécifique
+User-agent: Googlebot
+Allow: /
+Disallow: /admin/
+
+# Bingbot
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 1
