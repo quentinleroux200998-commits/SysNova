@@ -1,0 +1,9 @@
+json{
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/sap-basis-services.html"
+    }
+  ]
+}
+```
