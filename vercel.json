@@ -1,4 +1,4 @@
-json{
+{
   "rewrites": [
     {
       "source": "/",
@@ -6,4 +6,3 @@ json{
     }
   ]
 }
-```
